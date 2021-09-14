@@ -1,5 +1,5 @@
 # Biodiversity
-https://anushaghimire.github.io/Biodiversity/
+
 
 Discover and document new bacterias
 bacterias that have ability to synthesize protein that tastes like beef.
