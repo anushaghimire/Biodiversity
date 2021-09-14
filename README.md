@@ -1,5 +1,7 @@
 # Biodiversity
-
+# Overview 
+## Purpose 
+The purpose of the project 
 
 Discover and document new bacterias
 bacterias that have ability to synthesize protein that tastes like beef.
