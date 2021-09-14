@@ -5,6 +5,14 @@ There are different kinds of microorganisms can be found on different types of h
 ## Purpose 
 The purpose of the project is help roza build a dashboard which can visualize the bacterial data for each volunteer from the. Specifically, her volunteers should be able to identify the top 10 bacterial species in their belly buttons. 
 
+ **To help Roza make Dashboard I used the following languages/sources.**
+- JavaScript
+- Plotly
+- css
+- html
+- D3.js
+- data source: Samples.json
+
 ## Results 
 
 <img width="742" alt="barplot" src="https://user-images.githubusercontent.com/85364095/133327146-d1629a2a-488e-4a70-85f4-206c31ae1d11.png">
