@@ -14,12 +14,15 @@ The purpose of the project is help roza build a dashboard which can visualize th
 - data source: Samples.json
 
 ## Results 
-
+On the dashboard when the individual’s ID is selected from the dropdown menu on the webpage it displays the demographic info of that volunteer, bar-chart, bubble-chart and gauge chart. 
 
 <img width="742" alt="barplot" src="https://user-images.githubusercontent.com/85364095/133327146-d1629a2a-488e-4a70-85f4-206c31ae1d11.png">
 
 
-The bar chart above shows the top ten bacterias found on the given sample of a person whose id number is 940. When you hover over the bar box you can see the OTU labels in which it shows the sample values and the most abundent microorganisms present.
+>The bar chart above shows the top ten bacterias found on the given sample of a person whose id number is 940. When you hover over the bar box you can see the OTU labels in which it shows the sample values and the most abundent microorganisms present.
+>The 
+
+
 
 
 
